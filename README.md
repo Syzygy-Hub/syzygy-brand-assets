@@ -3,7 +3,10 @@
 Official brand assets for the Syzygy ecosystem — logo, icon, banners, color palette, and typography used across all Syzygy libraries and apps.
 
 <p align="center">
-  <img src="Assets/syzygy-banner-dark-2400.png" alt="Syzygy banner" width="600">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syzygy-Hub/syzygy-brand-assets/main/Assets/syzygy-banner-dark-2400.png">
+  <img src="https://raw.githubusercontent.com/Syzygy-Hub/syzygy-brand-assets/main/Assets/syzygy-banner-light-2400.png" alt="Syzygy" width="500">
+  </picture>
 </p>
 
 ## What is Syzygy
